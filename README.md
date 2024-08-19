@@ -2,14 +2,9 @@
 
 
 ### Skills
-- HTML5
-- CSS
-- Git
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,nodejs,express,mongodb)](https://skillicons.dev)
+
 
 
 
