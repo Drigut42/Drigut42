@@ -8,9 +8,12 @@ I’m exploring various technologies and areas within web development before cho
 I am actively involved in a full-stack project with a team of five, set to be completed by the end of September.
 
 Thank you for your attention!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drita-guta/)
 
-### Skills
+I’m open to connecting and discussing potential collaboration opportunities.
+[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/drita-guta/)
+
+
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,nodejs,express,mongodb)](https://skillicons.dev)
 
