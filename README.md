@@ -1,6 +1,6 @@
 ## Hello, I'm Drita Guta.
 
-Currently focused on learning web development and excited to soon begin my career, 
+Currently focused on learning web development and excited to begin my career soon, 
 I am eager to apply and grow my skills in a professional environment. 
 With a strong interest in both frontend and backend development, 
 I’m exploring various technologies and areas within web development before choosing a specialization.
