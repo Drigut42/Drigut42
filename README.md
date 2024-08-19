@@ -10,6 +10,7 @@ I am actively involved in a full-stack project with a team of five, set to be co
 Thank you for your attention!
 
 I’m open to connecting and discussing potential collaboration opportunities.
+
 [![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/drita-guta/)
 
 
