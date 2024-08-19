@@ -8,7 +8,7 @@ I’m exploring various technologies and areas within web development before cho
 I am actively involved in a full-stack project with a team of five, set to be completed by the end of September.
 
 Thank you for your attention!
-- 📫 How to reach me: [[LinkedIn](https://www.linkedin.com/in/drita-guta/)]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drita-guta/)
 
 ### Skills
 
