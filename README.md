@@ -16,23 +16,16 @@ I’m open to connecting and discussing potential collaboration opportunities.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,mongodb&perline=4)](https://skillicons.dev)
+
+## Development Environments
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,nodejs,bash)](https://skillicons.dev)
 
 
+## Tools I Enjoy Working With
+[![My Skills](https://skillicons.dev/icons?i=figma,obsidian)](https://skillicons.dev)
 
 
-
-
-
-
-<!--
-- 🔭 I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+## Skills I'm Planning to Learn
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs)](https://skillicons.dev)
+- Cybersecurity
