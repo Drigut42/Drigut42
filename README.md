@@ -1,11 +1,11 @@
-## Hello, I'm Drita Guta.
+## Hello, I'm Drita.
 
 Currently focused on learning web development and excited to begin my career soon, 
 I am eager to apply and grow my skills in a professional environment. 
 With a strong interest in both frontend and backend development, 
 I’m exploring various technologies and areas within web development before choosing a specialization.
 
-I am actively involved in a full-stack project with a team of five, set to be completed by the end of September.
+I am actively involved in a full-stack project with a team of four, set to be completed by the end of September.
 
 Thank you for your attention!
 
