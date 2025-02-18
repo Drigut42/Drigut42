@@ -1,11 +1,9 @@
 ## Hello, I'm Drita.
 
-Currently focused on learning web development and excited to begin my career soon, 
-I am eager to apply and grow my skills in a professional environment. 
-With a strong interest in both frontend and backend development, 
-I’m exploring various technologies and areas within web development before choosing a specialization.
-
-I am actively involved in a full-stack project with a team of four.
+Currently focused on learning web development and excited to start my career soon. <br>
+During my internship, I gained valuable experience as a frontend developer, which was both enjoyable and insightful. <br>
+I also worked with TypeScript, further enhancing my skills in practice. I am eager to apply and grow my skills in a professional environment. <br>
+With a strong interest in both frontend and backend development, I’m exploring various technologies and areas within web development before choosing a specialization.
 
 Thank you for your attention!
 
@@ -16,7 +14,7 @@ I’m open to connecting and discussing potential collaboration opportunities.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,mongodb&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mongodb&perline=4)](https://skillicons.dev)
 
 ## Development Environments
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,nodejs,bash)](https://skillicons.dev)
@@ -27,5 +25,5 @@ I’m open to connecting and discussing potential collaboration opportunities.
 
 
 ## Skills I'm Planning to Learn
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 - Cybersecurity
