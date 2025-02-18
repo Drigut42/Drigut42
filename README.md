@@ -2,7 +2,7 @@
 
 Currently focused on learning web development and excited to start my career soon. <br>
 During my internship, I gained valuable experience as a frontend developer, which was both enjoyable and insightful. <br>
-I also worked with TypeScript, further enhancing my skills in practice. I am eager to apply and grow my skills in a professional environment. <br>
+I also worked with TypeScript, further enhancing my skills in practice. <br> I am eager to apply and grow my skills in a professional environment. <br>
 With a strong interest in both frontend and backend development, I’m exploring various technologies and areas within web development before choosing a specialization.
 
 Thank you for your attention!
